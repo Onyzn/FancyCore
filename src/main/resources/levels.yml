@@ -1,0 +1,50 @@
+# Prêmios:
+# COMANDO>comando ({name} = jogador)
+# CASH>quantia
+# SKYWARS_COINS>quantia
+# BEDWARS_COINS>quantia
+# THEBRIDGE_COINS>quantia
+# PRIVATE_BOOSTER>quantia:multiplicador:horas
+# NETWORK_BOOSTER>quantia:multiplicador:horas
+levels:
+ 1:
+  exp: 0
+  description: '&fRecompensa:\n &7▪ &6100 SkyWars Coins\n &7▪ &6100 BedWars Coins\n &7▪ &6100 The Bridge Coins'
+  rewards:
+   - 'SKYWARS_COINS>100'
+   - 'BEDWARS_COINS>100'
+   - 'THEBRIDGE_COINS>100'
+ 2:
+  exp: 250
+  description: '&fRecompensa:\n &7▪ &6500 SkyWars Coins\n &7▪ &6500 BedWars Coins\n &7▪ &6500 The Bridge Coins'
+  rewards:
+   - 'SKYWARS_COINS>500'
+   - 'BEDWARS_COINS>500'
+   - 'THEBRIDGE_COINS>500'
+ 3:
+  exp: 500
+  description: '&fRecompensa:\n &7▪ &3100 Fragmentos de Caixa'
+  rewards:
+   - 'COMANDO>fbs give frags {name} 100'
+ 4:
+  exp: 750
+  description: '&fRecompensa:\n &7▪ &3200 Fragmentos de Caixa'
+  rewards:
+   - 'COMANDO>fbs give frags {name} 200'
+ 5:
+  exp: 1000
+  description: '&fRecompensa:\n &7▪ &3500 Fragmentos de Caixa'
+  rewards:
+   - 'COMANDO>fbs give frags {name} 500'
+ 6:
+  exp: 1500
+  description: '&fRecompensa:\n &7▪ &3550 Fragmentos de Caixa'
+  rewards:
+   - 'COMANDO>fbs give frags {name} 550'
+ 7:
+  exp: 2000
+  description: '&fRecompensa:\n &7▪ &61.500 SkyWars Coins\n &7▪ &61.500 BedWars Coins\n &7▪ &61.500 The Bridge Coins'
+  rewards:
+   - 'SKYWARS_COINS>1500'
+   - 'BEDWARS_COINS>1500'
+   - 'THEBRIDGE_COINS>1500'

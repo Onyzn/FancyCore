@@ -1,0 +1,70 @@
+roles:
+  dono:
+    name: '&6&lDO&6&lNO'
+    prefix: '&6&lDONO &6'
+    permission: 'role.dono'
+    alwaysvisible: true
+  gerente:
+    name: '&4&lGER&4&lENTE'
+    prefix: '&4&lGERENTE &4'
+    permission: 'role.gerente'
+    alwaysvisible: true
+  admin:
+    name: '&c&lADM&c&lIN'
+    prefix: '&c&lADMIN &c'
+    permission: 'role.admin'
+    alwaysvisible: true
+  moderador:
+    name: '&a&lMOD&a&lERADOR'
+    prefix: '&alMODERADOR &a'
+    permission: 'role.moderador'
+    alwaysvisible: true
+  ajudante:
+    name: '&e&lAJU&e&lDANTE'
+    prefix: '&e&lAJUDANTE &e'
+    permission: 'role.ajudante'
+    alwaysvisible: true
+  youtuber:
+    name: '&c&lYOU&c&lTUBER'
+    prefix: '&c&lYOUTUBER &c'
+    permission: 'role.youtuber'
+    alwaysvisible: true
+  streamer:
+    name: '&9&lSTR&9&lEAMER'
+    prefix: '&9&lSTREAMER &9'
+    permission: 'role.streamer'
+    alwaysvisible: true
+  beta:
+    name: '&5&lBE&5&lTA'
+    prefix: '&e&lBETA &5'
+    permission: 'role.beta'
+  blaze:
+    name: '&e&lBl&e&lAZE'
+    prefix: '&e&lBLAZE &e'
+    permission: 'role.blaze'
+  sky:
+    name: '&b&lSKY'
+    prefix: '&b&lSKY &b'
+    permission: 'role.sky'
+  fire:
+    name: '&6&lFIR´&6&lE'
+    prefix: '&6&lFIRE &6'
+    permission: 'role.fire'
+  free:
+    name: '&a&lFR&a&lEE'
+    prefix: '&a&lFREE &a'
+    permission: 'role.free'
+  booster:
+    name: '&d&lBOO&d&lSTER'
+    prefix: '&d&lBOOSTER &d'
+    permission: 'role.booster'
+  r:
+    name: '&eVIP'
+    prefix: '&e[VIP] '
+    permission: 'role.vip'
+  membro:
+    name: '&7Membro'
+    prefix: '&7'
+    permission: ''
+    # não enviar avisos ao entrar no lobby
+    broadcast: false

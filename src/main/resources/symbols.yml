@@ -1,0 +1,132 @@
+default:
+  id: 0
+  name: 'Padrão'
+  level: 1
+  symbol: '⋆'
+  icon: 'PAPER : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelI:
+  id: 1
+  name: 'Anjo da Morte I'
+  level: 30
+  symbol: '★'
+  icon: 'SKULL_ITEM:1 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelII:
+  id: 2
+  name: 'Anjo da Morte II'
+  level: 35
+  symbol: '☆'
+  icon: 'SKULL_ITEM:1 : 2 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelIII:
+  id: 3
+  name: 'Anjo da Morte III'
+  level: 40
+  symbol: '☸'
+  icon: 'SKULL_ITEM:1 : 3 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelIV:
+  id: 4
+  name: 'Anjo da Morte IV'
+  level: 45
+  symbol: '✶'
+  icon: 'SKULL_ITEM:1 : 4 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelV:
+  id: 5
+  name: 'Anjo da Morte V'
+  level: 50
+  symbol: '✳'
+  icon: 'SKULL_ITEM:1 : 5 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelVI:
+  id: 6
+  name: 'Anjo da Morte VI'
+  level: 55
+  symbol: '✴'
+  icon: 'SKULL_ITEM:1 : 6 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelVII:
+  id: 7
+  name: 'Anjo da Morte VII'
+  level: 60
+  symbol: '✷'
+  icon: 'SKULL_ITEM:1 : 7 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelVIII:
+  id: 8
+  name: 'Anjo da Morte VIII'
+  level: 65
+  symbol: '❋'
+  icon: 'SKULL_ITEM:1 : 8 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelIX:
+  id: 9
+  name: 'Anjo da Morte IX'
+  level: 70
+  symbol: '✼'
+  icon: 'SKULL_ITEM:1 : 9 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelX:
+  id: 10
+  name: 'Angel of Death X'
+  level: 75
+  symbol: '❂'
+  icon: 'SKULL_ITEM:1 : 10 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+angelXI:
+  id: 11
+  name: 'Anjo da Morte XI'
+  level: 80
+  symbol: '❁'
+  icon: 'SKULL_ITEM:1 : 11 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+iron:
+  id: 12
+  name: 'Prestígio de Ferro'
+  level: 2
+  symbol: '✙'
+  icon: 'IRON_INGOT : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+gold:
+  id: 13
+  name: 'Prestígio de Ouro'
+  level: 5
+  symbol: '❤'
+  icon: 'GOLD_INGOT : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+diamond:
+  id: 14
+  name: 'Prestígio de Diamante'
+  level: 8
+  symbol: '☠'
+  icon: 'DIAMOND : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+emerald:
+  id: 15
+  name: 'Prestígio de Esmeralda'
+  level: 11
+  symbol: '✦'
+  icon: 'EMERALD : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+sapphire:
+  id: 16
+  name: 'Prestígio de Safira'
+  level: 14
+  symbol: '✌'
+  icon: 'SKULL_ITEM:3 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7. : skinvalue>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThjNTExYjk2MWIyZGNhMDEyZjNhNWY1YjQ2NjA3OGEwZWMyMzgwYTc2ZDUxOWVhMzY0YTdkNmRjMjhlMWJiIn19fQ=='
+ruby:
+  id: 17
+  name: 'Prestígio de Rubi'
+  level: 17
+  symbol: '❦'
+  icon: 'SKULL_ITEM:3 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7. : skinvalue>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjUzMDE5MTUwMGMyNDUzNjI0ZGQ5MzdlYzEyNWQ0NGYwOTQyY2MyYjY2NDA3M2UyYTM2NmIzZmE2N2EwYzg5NyJ9fX0='
+crystal:
+  id: 18
+  name: 'Prestígio de Cristal'
+  level: 20
+  symbol: '✵'
+  icon: 'QUARTZ : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7.'
+opal:
+  id: 19
+  name: 'Prestígio de Opala'
+  level: 23
+  symbol: '❣'
+  icon: 'SKULL_ITEM:3 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7. : skinvalue>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI1NWE3ODUxYjQ3ODYxOTJhNDFmODhkYzJkMjhkNGU5Yjc3MjNiMDZlNWNlMmY2YTQxOGJkZTYxMzI2YmMxMiJ9fX0='
+amethyst:
+  id: 20
+  name: 'Prestígio de Ametista'
+  level: 26
+  symbol: '☯'
+  icon: 'SKULL_ITEM:3 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7. : skinvalue>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc5ZjhjOTI3NzZkNjQyZDExOWY5ZTkyMzYwYjFlNWI5NzFlNjZlNjE0MjhhM2UxYjMxMWQ4YjYxODVlNiJ9fX0='
+rainbow:
+  id: 21
+  name: 'Prestígio Arco-Íris'
+  level: 30
+  symbol: '✺'
+  icon: 'SKULL_ITEM:3 : 1 : name>{name} : lore>&7Define seu Ícone de Prestígio atual\n&7para &f{symbol}&7. : skinvalue>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjdiNzQ3YjM3OGE0MWEwYTZlZGM4NmMwMDBmMDQwYzY5OTRhODMzMjUxMTk2YzlkNTJjMmEyMzBmOTUxNjBjYyJ9fX0='
